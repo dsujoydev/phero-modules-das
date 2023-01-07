@@ -4,12 +4,14 @@
   font-family: "Work Sans", sans-serif;
 }
 
+/* header */
+
 .header-container {
   background: white;
   background-image: url(./images/banner/banner3.png);
   background-position: center;
   background-size: cover;
-  height: 700px;
+  height: 650px;
 }
 
 .header-props {
@@ -56,6 +58,8 @@
   align-items: center; */
 }
 
+/* Section1 */
+
 .my-failures {
   display: flex;
   justify-content: center;
@@ -93,6 +97,8 @@ span i {
   line-height: 26px;
   color: #444343;
 }
+
+/* Section2 */
 
 .my-plans {
   display: flex;
@@ -157,6 +163,8 @@ span i {
   border: none;
 }
 
+/* section3 */
+
 .pro-sec {
   margin-top: 100px;
   background-image: url(./images/banner/banner2.png);
@@ -189,6 +197,9 @@ span i {
   display: flex;
   justify-content: center;
 }
+
+/* footer */
+
 .footer {
   background-color: black;
   margin-top: 100px;
